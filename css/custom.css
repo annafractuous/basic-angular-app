@@ -1,0 +1,23 @@
+.header-bar{
+    background-color: #ADD8E6
+}
+
+.spacer{
+    height: 40px;
+}
+
+.warning {
+    color:red;
+}
+
+.ng-valid[required] {
+  border: 2px solid green;
+}
+
+.my-ng-invalid[required] {
+    border: 2px solid red;
+}
+
+.clickable {
+  cursor: pointer;
+}
